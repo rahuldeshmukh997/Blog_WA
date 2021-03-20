@@ -1,0 +1,14 @@
+define('DB_USERNAME', 'id16015033_techspace');
+define('DB_PASSWORD', 'r@hulDeshmukh997');
+define('DB_NAME', 'id16015033_demo');
+
+Rushikesh Vhatkar
+
+
+G:\Softwares\Android Studio\TechSpace\app\release
+
+
+define('DB_SERVER', 'localhost');
+define('DB_USERNAME', 'id16403011_rahul');
+define('DB_PASSWORD', 'Spidysdeshmukh@997');
+define('DB_NAME', 'id16403011_blog_wa');
